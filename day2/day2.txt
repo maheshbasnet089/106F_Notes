@@ -1,0 +1,17 @@
+Todo day 2 : 
+
+What is vuejs ?  Progressive Framework
+Why use over traditional html/css ? 
+Virtual DOM 
+Reconciliation (Patching)
+Diffing
+:html
+    :head
+    :body
+	:h1 "Helo this is h1"
+         :h2 : Hello this is h2
+
+Next 
+Nuxt
+SEO(Ejs) + alikati user friendly smooth
+
